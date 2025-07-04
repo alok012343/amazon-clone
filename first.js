@@ -1,0 +1,1 @@
+console.log("Amazon clone created by Alok");
